@@ -87,6 +87,8 @@ The average discount of Nigeria is relatively too much for a country with low pe
 
  The least profitable sub-category in Southeast Asia is "Tables"
 
+![](Table.JPG)
+
  b.  The country in Southeast Asia that needs to stop offering the sub-category "Tables" is "Indonesia" because it only brings them great loss.
 
  ### Least profitable City in United States
