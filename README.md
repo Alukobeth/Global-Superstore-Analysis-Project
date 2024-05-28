@@ -7,7 +7,7 @@ This a Power BI project on Global Superstore analysis.  Global Superstore is a g
 
 ## Problem Statement
 1.  a) What are the three countries that generated the highest total profit for Global Superstore in 2014?
-    b) For each of these three countries, find the three products with the highest total profit. Specifically,
+   -b) For each of these three countries, find the three products with the highest total profit. Specifically,
 what are the products’ names and the total profit for each product?
 2.  Identify the 3 subcategories with the highest average shipping cost in the United States.
 3. Assess Nigeria’s profitability (i.e., total profit) for 2014. How does it compare to other African countries?
