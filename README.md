@@ -63,7 +63,7 @@ This image shows the three products with highest profit for each top 3 countries
 
 ![](ship.JPG)
 
-The 3 sub-category average shipping cost in United States are the Copiers $165, Machines $132 and Tables $70.
+The 3 sub-category with the highest average shipping cost in United States are the Copiers $165, Machines $132 and Tables $70.
 
 ### Nigeria's Profitability
 
