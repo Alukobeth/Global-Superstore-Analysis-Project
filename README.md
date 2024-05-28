@@ -55,7 +55,7 @@ Two dashboards were created
 
 In 2014 "United States" generated the highest total profit for global superstore,followed by "India" then "China".
 
-b.  ![](productJPG)
+b.  ![](product.JPG)
 
 This image shows the three products with highest profit for each top 3 countries with highest profit.
 
